@@ -1,0 +1,4 @@
+:HL["/sobohnet-preview/_next/static/chunks/16mga6yhls48_.css","style"]
+:HC["/",""]
+:HL["/sobohnet-preview/brand/logo-horizontal-reversed.svg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"locale","param":{"type":"d","key":"ar","siblings":["print"]},"prefetchHints":4208,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"9xq7O9nlJO9DLPHcrMBmv"}
